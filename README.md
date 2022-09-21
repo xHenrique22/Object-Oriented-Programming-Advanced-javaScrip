@@ -1,2 +1,1 @@
-# typescript-sample
-Exemplo de typescript
+Object-Oriented-Programming-Advanced-javaScrip
